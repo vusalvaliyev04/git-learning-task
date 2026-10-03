@@ -1,1 +1,1 @@
-# git-learning-task
+Tapshriq yerine yetirldi
